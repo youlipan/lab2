@@ -1,5 +1,5 @@
-/* applies to anything of class "example-class-selector" */
-.example-class-selector {
+
+.project {
 	margin-top: 2em;
 }
 
@@ -32,3 +32,9 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project{
+     margin-left: 20px;
+}
+
+
